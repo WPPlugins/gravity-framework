@@ -1,0 +1,36 @@
+/*------------------------------------------------------------------
+[ Smart Fields Override ]
+-------------------------------------------------------------------*/
+
+.gf-options.gf-wrap .head			{ background: #fff; border: 1px solid #DFDFDF; margin-bottom: -11px; margin-top: 20px; padding: 15px; }
+.gf-options.gf-wrap #icon-themes		{ margin:0 10px 0 0; }
+.gf-options.gf-wrap .head h2			{ color: #848484; font-size: 15px; font-weight: 400; line-height: 34px; margin: 0; padding: 0; text-transform: uppercase; }
+.gf-options #message					{ margin-bottom: 0; margin-top: 20px; }
+
+.gf-options.gf-wrap					{ }
+.gf-options.gf-wrap					{ max-width: 780px }
+.gf-options .gf-separator h3			{ font-size: 13px; font-weight: bold; text-transform: uppercase; }
+.gf-options.gf-wrap .tabs			{ border: 1px solid #dfdfdf; box-shadow: none; height: 100%; margin: 10px 0; overflow: hidden; position: relative; }
+.gf-options.gf-wrap .tabs-nav		{ border-color: #dfdfdf }
+.gf-options.gf-wrap .tabs-nav, 
+.gf-options.gf-wrap .tabs-nav li a	{ background: #f5f5f5; font-weight: normal; outline: none }
+.gf-options.gf-wrap .tabs-nav li		{ border-color: #dfdfdf }
+.gf-options.gf-wrap .tabs-nav li a.nav-tab-active
+										{ background: #fff; color: #333 }
+.gf-options .gf-repeater .postbox .hndle
+										{ font-family:inherit; font-size:inherit; }
+.gf-repeater .fields .gf-row.ready		{ box-shadow:none }
+
+.gf-field .field-wrap p.description		{ color: #999; font-size: 11px; font-style: normal; }
+
+.gf-field-checkbox .field-wrap .text {margin: -19px 0 0 23px;}
+.gf-options .gf-field-checkbox .field-wrap .text {margin: -21px 0 0 20px;}
+
+#side-sortables .gf-wrap .gf-field { }
+#side-sortables .gf-wrap .fields-group { margin-bottom: -9px }
+#side-sortables .gf-repeater { background:transparent; }
+#side-sortables .gf-wrap .gf-field.gf-field-repeater:last-child .field-wrap { padding-bottom: 10px !important; }
+#side-sortables .gf-wrap .gf-repeater .fields .gf-row.ready { box-shadow:none }
+
+/*#side-sortables > .postbox > .inside > .gf-wrap > .fields-group > .gf-field > .label { background: #eee; border-bottom: 1px solid #dfdfdf; margin: 0 -10px 10px; padding: 0 10px; } */
+
